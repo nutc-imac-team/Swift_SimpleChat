@@ -11,12 +11,6 @@ https://console.firebase.google.com/
 
 # Pod init
 
-Open terminal
-
-->cd Firebase_SimpleChat
-
-->pod init
-
 add to podfile：
 
 pod 'Firebase/Auth'
