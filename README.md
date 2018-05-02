@@ -1,6 +1,7 @@
 # Swift_SimpleChat
 
 Swift 4.0 (Xcode 9.0)
+
 使用Firebase(Authentication、Database、Storage)，建立一個擁有基本訊息傳遞功能之Chat。
 
 # How To Use
