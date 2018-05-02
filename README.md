@@ -5,7 +5,7 @@
 # How Use
 
 https://console.firebase.google.com/
-到irebase後台創建專案，建立iOS應用，接著下載GoogleService-Info.plist，將它拉至Xcode專案中。
+到Firebase後台創建專案，建立iOS應用，接著下載GoogleService-Info.plist，將它拉至Xcode專案中。
 
 ＊ BUNDLE_ID需與Xcode專案Bundle identifier相同。 
 
