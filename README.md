@@ -1,6 +1,6 @@
 # Firebase_SimpleChat
 
-利用Firebase(Authentication、Database、Storage)，建立一個擁有基本功能的訊息傳遞App。
+使用Firebase(Authentication、Database、Storage)，建立一個擁有基本訊息傳遞功能之Chat。
 
 # How Use
 
