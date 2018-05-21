@@ -13,7 +13,7 @@ https://console.firebase.google.com/
 
 # Pod init
 
-add to podfile：
+Add to podfile：
 
 pod 'Firebase/Auth'
 
